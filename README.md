@@ -12,14 +12,11 @@ A Bike Company wants to know more about its customer base. Our job as a Data Ana
 
 ## Questions (KPIs)
 
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
+- Based on Average Income, who are buying more Bikes Male or Female?
+- In what Commute Distance people are most likely to purchase a Bike?
+- What age bracket is purchasing the most amount of Bikes?
+- In which region most bikes are sold?
+- People of what occupation are buying more Bikes?
 
 ## Process
 
@@ -36,17 +33,18 @@ A Bike Company wants to know more about its customer base. Our job as a Data Ana
 
 ## Dashboard
 
-<img src="https://github.com/GaurabKundu1/Python-for-Everybody/assets/86102231/8eb12b29-f13d-4660-ae0d-4c7e8d73e7ff">
+<img src="https://github.com/GaurabKundu1/Python-for-Everybody/assets/86102231/99098635-01c2-4612-9ced-9d50d4c88de8">
 
-[Interactive Dashboard Click Here](https://1drv.ms/x/s!Aks5Klbk4uC8gb5ZBY2TSAtr4BJptw?e=WM90vZ)
+[Interactive Dashboard Click Here](https://1drv.ms/x/s!Aks5Klbk4uC8gb5nQ3nq_Fu4tjgC1g?e=Uwdrdd)
 
 ## Project Insight
 
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-
+- Men customers are more likely to buy bikes compared to women.
+- People who's commute distance is 0-1 miles are buying more bikes.
+- The middle age group (31-53 yrs) is max contributing and buys the most bikes.
+- In North America region most Bikes are sold.
+- people who are professionals are buying more bikes.
+- 
 ## Final Conclusion to improve sales
 
-To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+To improve sales of bikes, men customers of the age group (31-53 yrs) living in Nort America region must be targeted.
