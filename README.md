@@ -4,7 +4,7 @@ An Interactive Report by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu
 
 ## Project Objective
 
-A Bike Company wants to know more about its customer base. Our job as a Data Analyst is to use the Data Provided by the compnay to gain insights and create a responsoive Dashboard in  Excel to help the company target the right customer base.
+A Bike Company wants to know more about its customer base. Our job as a Data Analyst is to use the Data Provided by the company to gain insights and create a interactive Dashboard in  Excel to help the company target the right customer base.
 
 ## Dataset used
 
